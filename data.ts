@@ -29,7 +29,7 @@ export interface Job {
       title: "Fronetend Engineer",
       image: "/images/c3.png",
       salary: "45k - 50k",
-      location: "Kolkata,India",
+      location: "Lviv, Ukraine",
       jobtype: "full time",
     },
     {

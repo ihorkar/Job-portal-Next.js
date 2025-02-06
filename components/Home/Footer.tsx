@@ -29,7 +29,7 @@ const Footer = () => {
                 {/* 3rd part of footer  */}
                 <FooterSection title={'Quick Links'} data={quickLinkItems} />
                 {/* 4th part of footer */}
-                <FooterSection title={'Get in Touch'} data={['+01234567', 'example@gmail.com', 'India']} />
+                <FooterSection title={'Get in Touch'} data={['+01234567', 'example@gmail.com', 'Ukraine']} />
             </div>
         </div>
     )
